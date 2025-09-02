@@ -1,0 +1,2 @@
+streamlit==1.38.0  # Adjust to the version you're using
+scikit-learn==1.5.1  # Use the latest compatible version
